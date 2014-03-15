@@ -1,4 +1,4 @@
-binnisb.github.com
-==================
+Web site for binnisb.com
 
-BInnisb website
+All credit goes to HTML5 UP:
+http://html5up.net/license
