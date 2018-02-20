@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "All things Binnisb"
+title                    : "All the things"
 title_separator          : "-"
 name                     : "Brynjar Smári Bjarnason"
 description              : "Projects and stuff"
@@ -91,9 +91,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brynjar Smari Bjarnason"
+  name             : "Brynjar Smári Bjarnason"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Father of two, M.Sc. Computational & Systems Biology from KTH and working as a quant for Kommuninvest"
   location         : "Örebro, Sweden"
   email            : "binni+github@binnisb.com"
   uri              :
