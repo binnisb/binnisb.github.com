@@ -95,7 +95,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Father of two, M.Sc. Computational & Systems Biology from KTH and working as a quant for Kommuninvest"
   location         : "Örebro, Sweden"
-  email            : "binni+github@binnisb.com"
+  email            : "binni@binnisb.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
