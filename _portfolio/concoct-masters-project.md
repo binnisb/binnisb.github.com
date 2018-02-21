@@ -5,12 +5,10 @@ sidebar:
   - title: "Project"
     image: assets/images/scilife.jpeg
     image_alt: "SciLife"
-    image_widht: "100px"
     text: "CONCOCT: Clustering cONtigs with COverage and ComposiTion"
   - title: "Thesis"
     image: assets/images/KTH_Logotyp_RGB_2013.png
     image_alt: "KTH"
-    image_width: "100px"
     text: "Clustering metagenome contigs using coverage with CONCOCT"
 ---
 
