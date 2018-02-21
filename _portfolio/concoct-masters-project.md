@@ -3,8 +3,12 @@ title: "Masters project from KTH: CONCOCT"
 excerpt: "Summary of my masters project and my thesis & presentation."
 sidebar:
   - title: "Project"
+    image: assets/images/scilife.jpeg
+    image_alt: "SciLife"
     text: "CONCOCT: Clustering cONtigs with COverage and ComposiTion"
   - title: "Thesis"
+    image: assets/images/KTH_Logotyp_RGB_2013.png
+    image_alt: "KTH"
     text: "Clustering metagenome contigs using coverage with CONCOCT"
 ---
 
