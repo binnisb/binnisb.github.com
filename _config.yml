@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "Brynjar Smári Bjarnason"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/assets/images/binni_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Father of two, M.Sc. Computational & Systems Biology from KTH and working as a quant for Kommuninvest"
   location         : "Örebro, Sweden"
   email            : "binni@binnisb.com"
