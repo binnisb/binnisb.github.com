@@ -19,5 +19,5 @@ My [thesis][binni-thesis] was published in 2017 and I [presented][binni-pres] th
 [envgen]: https://envgen.github.io/
 [concoct-paper]: https://www.nature.com/articles/nmeth.3103
 [concoct-repo]: https://github.com/BinPro/CONCOCT
-[binni-thesis]: "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-208944"
+[binni-thesis]: https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-208944
 [binni-pres]: https://docs.google.com/presentation/d/12BVV0DiSyTFMAto5f_CMB1OvgxnqNUNYbLHdsr4VHts/edit?usp=sharing
