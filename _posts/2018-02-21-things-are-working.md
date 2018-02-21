@@ -2,6 +2,7 @@
 layout: post
 title:  "Fun stuff"
 date:   2018-02-21 00:20:00 +0100
+toc: true
 categories: uncategorised
 ---
 
