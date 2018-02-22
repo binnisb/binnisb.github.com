@@ -2,7 +2,7 @@
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/features/spegast_i_vatni_feature.jpg
+  image: /assets/images/spegast_i_vatni.jpg
   teaser: /assets/images/teasers/spegast_i_vatni_teaser.jpg
 sidebar:
   - title: "Role"
@@ -15,11 +15,11 @@ gallery:
   - url: /assets/images/spegast_i_vatni.jpg
     image_path: assets/images/teasers/spegast_i_vatni_teaser.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/teasers/KTH_Logotyp_RGB_2013_teaser.png
-    image_path: assets/images/KTH_Logotyp_RGB_2013.png
+  - url: /assets/images/KTH_Logotyp_RGB_2013.png
+    image_path: assets/images/teasers/KTH_Logotyp_RGB_2013_teaser.png
     alt: "placeholder image 2"
   - url: /assets/images/teaser.jpg
-    image_path: assets/images/teasers/teaser_teasers.jpg
+    image_path: assets/images/teasers/teaser_teaser.jpg
     alt: "placeholder image 3"
 ---
 
