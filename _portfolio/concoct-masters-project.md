@@ -5,11 +5,11 @@ classes:
   - portfolio-sidebar
 sidebar:
   - title: "Project"
-    image: assets/images/sidebars/scilife_sidebar.jpeg
+    image: assets/images/features/scilife_feature.jpeg
     image_alt: "SciLife"
     text: "CONCOCT: Clustering cONtigs with COverage and ComposiTion"
   - title: "Thesis"
-    image: assets/images/sidebars/KTH_Logotyp_RGB_2013_sidebar.png
+    image: assets/images/features/KTH_Logotyp_RGB_2013_feature.png
     image_alt: "KTH"
     text: "Clustering metagenome contigs using coverage with CONCOCT"
 ---
