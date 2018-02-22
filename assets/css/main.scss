@@ -6,6 +6,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.sidebar img {
-  width: 100px;
-}
+//.sidebar img {
+//  width: 100px;
+//}
