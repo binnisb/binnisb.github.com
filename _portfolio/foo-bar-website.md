@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/teasers/spegast_i_vatni_teaser.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/teasers/speglast_i_vatni_teaser.jpg
+    image: /assets/images/teasers/spegast_i_vatni_teaser.jpg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
