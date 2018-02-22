@@ -1,7 +1,7 @@
 ---
 title: "Masters project from KTH: CONCOCT"
 excerpt: "Summary of my masters project and my thesis & presentation."
-sidebar_portfolio:
+sidebar:
   - title: "Project"
     image: assets/images/sidebars/scilife_sidebar.jpeg
     image_alt: "SciLife"
