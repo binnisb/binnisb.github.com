@@ -2,24 +2,24 @@
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/spegast_i_vatni.jpg
-  teaser: /assets/images/spegast_i_vatni.jpg
+  image: /assets/images/features/spegast_i_vatni_feature.jpg
+  teaser: /assets/images/teasers/spegast_i_vatni_teaser.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/teasers/speglast_i_vatni_teaser.jpg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/spegast_i_vatni.jpg
-    image_path: assets/images/spegast_i_vatni.jpg
+    image_path: assets/images/teasers/spegast_i_vatni_teaser.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/spegast_i_vatni.jpg
-    image_path: assets/images/spegast_i_vatni.jpg
+  - url: /assets/images/teasers/KTH_Logotyp_RGB_2013_teaser.png
+    image_path: assets/images/KTH_Logotyp_RGB_2013.png
     alt: "placeholder image 2"
-  - url: /assets/images/spegast_i_vatni.jpg
-    image_path: assets/images/spegast_i_vatni.jpg
+  - url: /assets/images/teaser.jpg
+    image_path: assets/images/teasers/teaser_teasers.jpg
     alt: "placeholder image 3"
 ---
 
