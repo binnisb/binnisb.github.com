@@ -9,14 +9,11 @@ I am working on a code base, version controlled in git, that we have recently mo
 
 I set up a build definition to run the tests defined in the code base, and I noticed that it offers to publish the test results and coverage results along with the build status. I had some issues with getting it working but I wanted to share my python & pytest setup to help others get to the solution quicker (I hope :) ).
 
-The code can be found [here][github-repo] (in GitHub since VSTS does not allow repositories to be public), and the build definition is found there under [Demo.json][demo_json]. Here you should update the name of the build definition, and use a hosted linux queue agent. You should also update source to the master branch of the example.
+The code can be found [here][github-repo] (in GitHub since VSTS does not allow repositories to be public), and the build definition is found there under [Demo.json][demo_json]. If you create a new repository in VSTS, you can import the GitHub repository. Then you need to import a build definition, where you use the `Demo.json` file. Here you should update the name of the build definition, and use a hosted Linux queue agent. You should also update source to the master branch of the example.
 
 You can then `Save & Queue` and wait for the results. In the build summary, you can now click the `Code Coverage` and the `Tests` tabs to see the results of the tests and coverage.
 
 The problem I had was that the coverage was malformed since the results from pytest coverage do not inline the stylesheet for the html. That is what the pytest-style-inliner fixes.
-
-
-Check out [Binnisb repo][github-binnisb]
 
 [vsts]:   https://www.visualstudio.com/team-services/
 [github-repo]:  https://github.com/binnisb/pytest-vsts-demo.git
