@@ -5,7 +5,7 @@ comments: true
 categories: uncategorised
 ---
 
-It's alive!
+It's alive! Yay
 
 {% highlight python %}
 def print_hi(name):
