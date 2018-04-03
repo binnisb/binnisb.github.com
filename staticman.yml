@@ -1,0 +1,21 @@
+comments:
+  allowedFields: ['name', 'email', 'url', 'message', 'replying_to']
+  branch: "master"
+  commitMessage: "New comment."
+  filename: "comment-{@timestamp}"
+  format: "yaml"
+  moderation: true
+  name: "Binnisb blog"
+  path: "_data/comments/{options.slug}"
+  requiredFields: ['name', 'email', 'message']
+  transforms:
+    email: md5
+  generatedFields:
+    date:
+      type: "date"
+      options:
+        format: "iso8601"
+  reCaptcha:
+    enabled: true
+    siteKey: "6LcYu1AUAAAAAFCNknjI3flJKC0uR6JfClJA4F6y"
+    secret: "cyMrMgAN0nBmDeTnx+W5pm06iNcIHXwGJK58Av4ZPg+wmKTFNI5wad0m9FzWC+3zlUp2ymc3e1+orGXqm/Xt9Za3u81CPusQHX0hMPN66Xs3gDKh9RoDjdtGT0N+bQnR5g9QQbv+7AC+UKG2N1vEYC4V4+kNpxI+f92yylZIEjU="

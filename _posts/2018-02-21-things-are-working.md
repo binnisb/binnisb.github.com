@@ -1,6 +1,7 @@
 ---
 title:  "Fun stuff"
 date:   2018-02-21 00:20:00 +0100
+comments: true
 categories: uncategorised
 ---
 
