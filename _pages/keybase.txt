@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/binnisb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://binnisb.com
+  * I am binnisb (https://keybase.io/binnisb) on keybase.
+  * I have a public key ASB9Nl_MZVg3WEnhOo6QfHx40OvB_9-47VsPr-ChIaO1Mgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207d365fcc6558375849e13a8e907c7c78d0ebc1ffdfb8ed5b0fafe0a121a3b5320a",
+      "host": "keybase.io",
+      "kid": "01207d365fcc6558375849e13a8e907c7c78d0ebc1ffdfb8ed5b0fafe0a121a3b5320a",
+      "uid": "655536b2e84949e4c2617bc24bd71819",
+      "username": "binnisb"
+    },
+    "merkle_root": {
+      "ctime": 1526933107,
+      "hash": "39bef3386eac7a234d3f3564d2d4e7221ea8ee8ae5bb8fca0ee63a8734374b9a443ada93fe8d2f902977251eca8657a24c4de70d5dd2b0910b2531c242b8d3c4",
+      "hash_meta": "6c3caf534029543c92ed2aeabd5229aafaf8693e0c98d22cd88ed091d0df4f56",
+      "seqno": 2855692
+    },
+    "service": {
+      "entropy": "yZTaHkA0Sz/Ue1rzizTPjih3",
+      "hostname": "binnisb.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.49"
+  },
+  "ctime": 1526933125,
+  "expire_in": 504576000,
+  "prev": "7e9e7a4414456996215654b2413890a8a78d2d14dcf7eb60841d7cbcba8b8f08",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfTZfzGVYN1hJ4TqOkHx8eNDrwf/fuO1bD6/goSGjtTIKp3BheWxvYWTESpcCDsQgfp56RBRFaZYhVlSyQTiQqKeNLRTc9+tghB18vLqLjwjEIMkgLwwuD3F8PpGxrvHHeSLqnQ3c+FIwGBU5kL+W2p2RAgHCo3NpZ8RAkzgfd4n3dYadVNSkP3kBI+ee2iL6mXhMDx0Jbz0mY1KrwyA51/L5kJfmUIsDTxWyApzIs6LRHC3cFuBQG/NvAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL7H4ApHbZMtFD5ooKEfVnVWLw+V6xBu5ITl4Q9CjWUqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/binnisb
+
+==================================================================
