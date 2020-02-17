@@ -1,0 +1,4 @@
+Sitemap: https://binnisb.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: binnisb.github.io
