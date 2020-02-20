@@ -1,3 +1,4 @@
+nikola[extras]
 pandas
 numpy
 matplotlib

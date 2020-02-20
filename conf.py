@@ -137,14 +137,19 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/blog/", "Blog"),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
+        ('/index.html', 'Home', 'fa fa-home'),
+        ('/archive.html', 'Archives', 'fa fa-folder-open'),
+        ('/categories/index.html', 'Tags', 'fa fa-tags'),
+        ('/rss.xml', 'RSS', 'fa fa-rss'),
+        ('/about.html', 'About me', 'fa fa-user'),
+        ('https://twitter.com/aibinnisb', 'My Twitter', 'fab fa-twitter'),
+        ('https://github.com/binnisb', 'My Github', 'fab fa-github'),
+    )
 }
+
+DATE_FANCINESS = 2
+
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -154,7 +159,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "zen"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -549,8 +554,6 @@ HIDDEN_AUTHORS = ['Guest']
 # (translatable)
 # INDEX_PATH = ""
 
-INDEX_PATH = "posts"
-
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
 FRONT_INDEX_HEADER = {
@@ -932,10 +935,10 @@ FEED_LINKS_APPEND_QUERY = False
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
 LICENSE = """
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-<img alt="Creative Commons License" 
-style="border-width:0" 
-src="https://i.creativecommons.org/l/by/4.0/80x15.png" />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img alt="Creative Commons License BY-NC-SA" 
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
 </a>
 """
 # I recommend using the Creative Commons' wizard:
