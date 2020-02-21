@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brain Relieve</title><link>https://binnisb.github.io/</link><description>TBD</description><atom:link href="https://binnisb.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:binni-at-binnisb-dot-com"&gt;Brynjar Smári Bjarnason&lt;/a&gt; 
-&lt;a rel="license" href="http://creativecommons.org/licenses/by/4.0/"&gt;
-&lt;img alt="Creative Commons License" 
-style="border-width:0" 
-src="https://i.creativecommons.org/l/by/4.0/80x15.png" /&gt;
+&lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
+&lt;img alt="Creative Commons License BY-NC-SA" 
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /&gt;
 &lt;/a&gt;
-</copyright><lastBuildDate>Thu, 20 Feb 2020 20:47:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test notebook</title><link>https://binnisb.github.io/blog/test-notebook/</link><dc:creator>Brynjar Smári Bjarnason</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+</copyright><lastBuildDate>Fri, 21 Feb 2020 20:11:12 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test notebook</title><link>https://binnisb.github.io/blog/test-notebook/</link><dc:creator>Brynjar Smári Bjarnason</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;&lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;Write your post here.&lt;/p&gt;
