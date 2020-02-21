@@ -137,14 +137,15 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home', 'fa fa-home'),
         ('/archive.html', 'Archives', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ('/about.html', 'About me', 'fa fa-user'),
-        ('https://twitter.com/aibinnisb', 'My Twitter', 'fab fa-twitter'),
-        ('https://github.com/binnisb', 'My Github', 'fab fa-github'),
+        ('https://getnikola.com', 'About me', 'fa fa-user'),
+        ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
+        ('https://github.com/getnikola', 'My Github', 'fab fa-github'),
     )
 }
 
