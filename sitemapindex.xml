@@ -6,11 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://binnisb.github.io/categories/sport.xml</loc>
+  <lastmod>2020-02-24T23:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://binnisb.github.io/rss.xml</loc>
-  <lastmod>2020-02-21T20:11:00Z</lastmod>
+  <lastmod>2020-02-24T23:17:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://binnisb.github.io/sitemap.xml</loc>
-  <lastmod>2020-02-21T20:11:00Z</lastmod>
+  <lastmod>2020-02-24T23:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://binnisb.github.io/tags/liverpool.xml</loc>
+  <lastmod>2020-02-24T23:17:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://binnisb.github.io/tags/westham.xml</loc>
+  <lastmod>2020-02-24T23:17:00Z</lastmod>
  </sitemap>
 </sitemapindex>
